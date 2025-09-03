@@ -11,10 +11,11 @@ nav a{
 
 a{
     text-decoration: none;
+    color: white;
 }
 
 a:hover{
-    background-color:rgb(235, 231, 15);
+    background-color:rgb(155, 153, 22);
     padding: 4px 4px;
     border-radius: 8px;
 }
